@@ -11,23 +11,23 @@ Though it has a pseudo-login feature, it does not require a password, and the ba
 
 Future Enhancements
 
-    If this project were to be further developed, I would consider the following:
+If this project were to be further developed, I would consider the following:
 
 Google Maps Integration
 
-    Show and filter dogs by their locations, displayed on an integrated map.
+Show and filter dogs by their locations, displayed on an integrated map.
 
 Further Mobile Optimization
 
-    My current design is responsive to a point, but more could be done to improve the user experience across various devices.
+My current design is responsive to a point, but more could be done to improve the user experience across various devices.
 
 Secure Login and 'My Profile' Page
 
-    Persist user data and send notifications based on previous browsing.
+Persist user data and send notifications based on previous browsing.
 
 More Sort Options
 
-    Sort dogs by city, state, dog size, dog color, and more.
+Sort dogs by city, state, dog size, dog color, and more.
 
 Brief:
 ¶
