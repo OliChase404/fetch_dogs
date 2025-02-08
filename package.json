@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fireworks-js/react": "^2.10.8",
+    "axios": "^1.7.9",
     "cra-template": "1.2.0",
+    "primeicons": "^7.0.0",
+    "primereact": "^10.9.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1"
   },
   "scripts": {
