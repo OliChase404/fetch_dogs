@@ -7,7 +7,6 @@
     "@fireworks-js/react": "^2.10.8",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
-    "gh-pages": "^6.3.0",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.2",
     "react": "^19.0.0",
@@ -40,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
