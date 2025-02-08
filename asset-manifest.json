@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fetch_dogs/static/css/main.ab0ce6c0.css",
-    "main.js": "/fetch_dogs/static/js/main.c6bde7b4.js",
+    "main.js": "/fetch_dogs/static/js/main.27092e4c.js",
     "static/media/InterVariable-Italic.woff2": "/fetch_dogs/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/fetch_dogs/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "static/media/primeicons.svg": "/fetch_dogs/static/media/primeicons.6ed59f962963a4a73af2.svg",
@@ -11,10 +11,10 @@
     "static/media/primeicons.woff2": "/fetch_dogs/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/fetch_dogs/index.html",
     "main.ab0ce6c0.css.map": "/fetch_dogs/static/css/main.ab0ce6c0.css.map",
-    "main.c6bde7b4.js.map": "/fetch_dogs/static/js/main.c6bde7b4.js.map"
+    "main.27092e4c.js.map": "/fetch_dogs/static/js/main.27092e4c.js.map"
   },
   "entrypoints": [
     "static/css/main.ab0ce6c0.css",
-    "static/js/main.c6bde7b4.js"
+    "static/js/main.27092e4c.js"
   ]
 }
