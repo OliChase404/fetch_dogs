@@ -1,11 +1,11 @@
 # Fetch Dogs App
 
----
-
 This is a take-home assignment from [Fetch](https://fetch.com/).
 
-I used [Pet Finder](https://www.petfinder.com/) as a design reference for this project.   
-Project Overview
+I used [Pet Finder](https://www.petfinder.com/) as a design reference for this project. 
+
+###   
+**Project Overview**
 
 The app is a simple frontend for navigating a database of dogs drawn from Fetch's own API. 
 
